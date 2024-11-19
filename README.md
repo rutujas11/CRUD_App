@@ -32,5 +32,5 @@ This project is a simple **CRUD (Create, Read, Update, Delete)** application bui
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/crud-application.git
-   cd crud-application
+   git clone (https://github.com/rutujas11/CRUD_App/tree/main)
+   cd CRUD_App
